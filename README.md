@@ -1,5 +1,4 @@
-# -
-摩爾莊園bluestack5 腳本  
+# 摩爾莊園 bluestack5 鋼琴演奏腳本  
 摩爾遊戲名:翼天藍飛
 ## 用法:
 將bluestack 遊戲控制設成  
